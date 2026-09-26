@@ -1,0 +1,12 @@
+{
+  "name": "Thai Overlay Translator - แปลภาษาทับหน้าจอ",
+  "description": "ระบบแปลภาษาทับหน้าจออัจฉริยะ (Screen Overlay Translator) แปลเกม มังงะ หน้าต่างโปรแกรม วิดีโอ และภาพนิ่งเป็นภาษาไทยแบบเรียลไทม์ ด้วย AI Vision OCR",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
